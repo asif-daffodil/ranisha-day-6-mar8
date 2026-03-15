@@ -216,7 +216,8 @@ header > ul > li > a {
 }
 
 .featured-products {
-    
+    display: flex;
+    gap: 20px;
 
 }
 
