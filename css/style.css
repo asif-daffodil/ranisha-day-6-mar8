@@ -215,6 +215,11 @@ header > ul > li > a {
     margin: 0 auto;
 }
 
+.featured-products {
+    
+
+}
+
 
 @media screen and (max-width: 768px) {
     header {
